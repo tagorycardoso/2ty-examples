@@ -77,7 +77,4 @@
             $tagory,
             $rafael
         ]
-    ]
-
-
-
+    ];
