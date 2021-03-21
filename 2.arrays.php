@@ -1,6 +1,10 @@
 <?php
 
+    /*
 
+        2. Arrays
+
+    */
 
     //TRÊS FORMAS BÁSICAS DE INSTANCIAR UM ARRAY
     /*

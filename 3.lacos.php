@@ -1,6 +1,12 @@
 <?php
 
-    require 'arrays.php';
+    /*
+
+        3. Laços de repetição
+
+    */
+
+    require '2.arrays.php';
 
     /*
         Um dos laços mais utilizados por nós na construção de dados é percorrer arrays utilizando o foreach

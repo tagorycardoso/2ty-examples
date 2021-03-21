@@ -1,6 +1,8 @@
 <?php
 
     /*
+        1. Funções do PHP
+
         Funções mais utilizadas:
 
 
